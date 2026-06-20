@@ -14,3 +14,5 @@ A responsive Netflix landing page clone built with HTML and CSS, inspired by the
 ## 📧 Contact
 **Uttam Kumar**  
 📧 uttamkumar.coder@gmail.com
+
+This project is for educational purposes only and is not affliated with netflix
